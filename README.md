@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to My Page
+
+Hi, I am Shuvojit Nath, a first year PhD student at Indian Institute of Technology Bombay in India.
 
 You can use the [editor on GitHub](https://github.com/ShuvojitNath/shuvojitnath.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
